@@ -57,7 +57,7 @@ export const TableUsers = ({ users, onDelete, filteredData }) => {
 					))
 				) : (
 					<tr>
-						<td colSpan={5}>
+						<td colSpan={7}>
 							<h3>Debe ingresar datos</h3>
 						</td>
 					</tr>
